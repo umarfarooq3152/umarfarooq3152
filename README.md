@@ -97,6 +97,16 @@ class UmarFarooq:
 
 ---
 
+## 3D Contribution Graph
+
+<div align="center">
+
+![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
 ## Activity Graph
 
 <div align="center">
