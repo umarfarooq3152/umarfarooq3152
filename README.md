@@ -1,15 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Umar%20Farooq&fontSize=70&color=0:8B5CF6,50:06B6D4,100:EC4899&stroke=8B5CF6&strokeWidth=2&desc=Full%20Stack%20%E2%80%A2%20AI%20%2F%20Data%20%E2%80%A2%20Android%20%E2%80%94%20Lahore%2C%20PK%20%F0%9F%87%B5%F0%9F%87%B0&descSize=17&descAlignY=68&animation=fadeIn"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&random=false&width=500&lines=Building+products+from+0+%E2%86%92+1;Data+%7C+AI+%7C+Full+Stack+%7C+Android;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft_bg&color=0:0d0d0d,100:1a0533&height=200&section=header&text=Umar%20Farooq&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20%C2%B7%20AI%20%2F%20Data%20%C2%B7%20Android%20%E2%80%94%20Lahore%2C%20PK&descSize=17&descAlignY=64&descColor=a78bfa"/>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/umarfarooq3152%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:umarfarooq3152@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/umarfarooq3152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/umarfarooq3152)
-![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=umarfarooq3152&color=8B5CF6&style=flat-square&label=profile+views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=420&lines=Building+products+from+0+to+1;AI+%C2%B7+Data+%C2%B7+Web+%C2%B7+Mobile;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="mailto:umarfarooq3152@gmail.com"><img src="https://img.shields.io/badge/-umarfarooq3152@gmail.com-1a0533?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+&nbsp;
+<a href="https://github.com/umarfarooq3152"><img src="https://img.shields.io/badge/-umarfarooq3152-1a0533?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/-Lahore%2C%20PK-1a0533?style=flat-square&logo=googlemaps&logoColor=a78bfa"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=umarfarooq3152&color=a78bfa&style=flat-square&label=visitors"/>
 
 </div>
 
@@ -17,140 +22,135 @@
 
 ---
 
-### `> whoami`
+<details open>
+<summary><b>whoami</b></summary>
+<br/>
 
 ```python
 class UmarFarooq:
-    pronouns    = "he/him"
-    location    = "Lahore, Pakistan 🇵🇰"
-    focus       = ["Full Stack Web", "AI Engineering", "Data Analysis", "Android"]
-    languages   = ["Python", "TypeScript", "Kotlin"]
-    tools       = ["Next.js", "React", "Node.js", "Supabase", "Docker"]
-    currently   = "building AI-powered apps & shipping end-to-end products"
-    ask_me_about = "anything at the intersection of data + software"
+    location  = "Lahore, Pakistan"
+    stack     = ["Python", "TypeScript", "Kotlin"]
+    builds    = ["AI products", "full-stack web", "Android apps", "data pipelines"]
+    currently = "turning ideas into working software"
+    contact   = "umarfarooq3152@gmail.com"
 ```
 
+</details>
+
+---
+
+<details open>
+<summary><b>Contribution Landscape</b></summary>
 <br/>
-
----
-
-### Contribution Landscape
-
 <div align="center">
 
-![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
+</details>
 
 ---
 
-### Trophies
-
+<details open>
+<summary><b>GitHub Stats</b></summary>
+<br/>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umarfarooq3152&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umarfarooq3152&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq3152&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umarfarooq3152&show_icons=true&hide_border=true&bg_color=13111C&title_color=a78bfa&icon_color=10b981&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq3152&layout=compact&hide_border=true&bg_color=13111C&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=umarfarooq3152&theme=transparent&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=06B6D4)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=umarfarooq3152&hide_border=true&background=13111C&stroke=2d2040&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=9ca3af&dates=6b7280&sideNums=c9d1d9&currStreakNum=10b981"/>
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=umarfarooq3152&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+</details>
 
 ---
 
-### Tech Stack
-
+<details open>
+<summary><b>Tech Stack</b></summary>
+<br/>
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td>
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-13111C?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-13111C?style=flat-square&logo=typescript&logoColor=3178C6)
+![Kotlin](https://img.shields.io/badge/Kotlin-13111C?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-13111C?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-13111C?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI & Data</b></td>
-<td>
+**AI & Data**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-13111C?style=flat-square&logo=jupyter&logoColor=F37626)
+![Pandas](https://img.shields.io/badge/Pandas-13111C?style=flat-square&logo=pandas&logoColor=150458&labelColor=13111C)
+![NumPy](https://img.shields.io/badge/NumPy-13111C?style=flat-square&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-13111C?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![OpenAI](https://img.shields.io/badge/OpenAI-13111C?style=flat-square&logo=openai&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Web & Mobile</b></td>
-<td>
+**Web & Mobile**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-13111C?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-13111C?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-13111C?style=flat-square&logo=node.js&logoColor=339933)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-13111C?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Android](https://img.shields.io/badge/Android-13111C?style=flat-square&logo=android&logoColor=34A853)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Infra & Tools</b></td>
-<td>
+**Infra & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13111C?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-13111C?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-13111C?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-13111C?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-13111C?style=flat-square&logo=linux&logoColor=FCC624)
 
 </div>
+</details>
 
 ---
 
-### Featured Work
-
+<details open>
+<summary><b>Featured Work</b></summary>
+<br/>
 <div align="center">
 
-[![Ecommerce Analysis](https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Ecommerce-Analysis&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9)](https://github.com/umarfarooq3152/Ecommerce-Analysis)&nbsp;
-[![Modernist AI](https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Modernist-ai&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9)](https://github.com/umarfarooq3152/Modernist-ai)
-
-[![Fair Gig](https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Fair-Gig&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9)](https://github.com/umarfarooq3152/Fair-Gig)&nbsp;
-[![SkillUP](https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=SkillUP&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9)](https://github.com/umarfarooq3152/SkillUP)
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umarfarooq3152&theme=react-dark&hide_border=true&bg_color=00000000&color=8B5CF6&line=06B6D4&point=EC4899&area=true&area_color=8B5CF6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<a href="https://github.com/umarfarooq3152/Ecommerce-Analysis">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Ecommerce-Analysis&hide_border=true&bg_color=13111C&title_color=a78bfa&icon_color=10b981&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/umarfarooq3152/Modernist-ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Modernist-ai&hide_border=true&bg_color=13111C&title_color=a78bfa&icon_color=10b981&text_color=c9d1d9"/>
+</a>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:EC4899&height=80&section=footer"/>
+<a href="https://github.com/umarfarooq3152/Fair-Gig">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Fair-Gig&hide_border=true&bg_color=13111C&title_color=a78bfa&icon_color=10b981&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/umarfarooq3152/SkillUP">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=SkillUP&hide_border=true&bg_color=13111C&title_color=a78bfa&icon_color=10b981&text_color=c9d1d9"/>
+</a>
+
+</div>
+</details>
+
+---
+
+<details open>
+<summary><b>Activity</b></summary>
+<br/>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umarfarooq3152&bg_color=13111C&color=a78bfa&line=7c3aed&point=10b981&area=true&area_color=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+</details>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:0d0d0d&height=80&section=footer"/>
