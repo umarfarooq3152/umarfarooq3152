@@ -152,11 +152,29 @@ class UmarFarooq:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Fair-Gig&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
 </a>
 
+<a href="https://github.com/umarfarooq3152/resumate">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=resumate&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+</a>
+<a href="https://github.com/umarfarooq3152/Dhaaga">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Dhaaga&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+</a>
+
+<a href="https://github.com/umarfarooq3152/Resham">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Resham&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+</a>
+<a href="https://github.com/umarfarooq3152/UH.">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=UH.&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+</a>
+
+<a href="https://github.com/umarfarooq3152/SkillUP">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=SkillUP&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+</a>
 <a href="https://github.com/umarfarooq3152/Ecommerce-Analysis">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=Ecommerce-Analysis&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
 </a>
-<a href="https://github.com/umarfarooq3152/SkillUP">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=SkillUP&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
+
+<a href="https://github.com/umarfarooq3152/dotfiles">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarooq3152&repo=dotfiles&hide_border=true&bg_color=0d0617&title_color=c4b5fd&icon_color=10b981&text_color=c9d1d9&description_lines_count=3"/>
 </a>
 
 </div>
@@ -174,5 +192,5 @@ class UmarFarooq:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0617,50:3b0764,100:0d0617&height=100&section=footer"/>
-<!-- last updated: 2026-06-17 -->
-<!-- maintained: 2026-06-17 -->
+<!-- last updated: 2026-07-22 -->
+<!-- maintained: 2026-07-22 -->
